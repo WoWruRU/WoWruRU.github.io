@@ -1,3 +1,3 @@
-- [Клиент](https://vk.com/wowruru)
+- [Клиент](client.html)
 - [Аддоны](addons.html)
 - [Серверная русификация](https://github.com/WoWruRU/classicdb_ruRU)
