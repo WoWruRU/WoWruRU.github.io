@@ -1,10 +1,13 @@
 ## Клиент World of Warcraft 1.12.1 ruRU
 
-##### Windows
-[torrent](https://vk.com/doc-113603759_437863254) / [rutracker](https://rutracker.org/forum/viewtopic.php?t=2476597)
-
-##### Mac OS
-[Инструкция по русификации](https://vk.com/topic-113603759_35171106)
+- ##### <i class="fa-li fa fa-windows"></i>Windows
+    - <i class="fa-li fa fa-download"></i>[torrent](https://vk.com/doc-113603759_437863254)
+    - <i class="fa-li fa fa-download"></i>[rutracker](https://rutracker.org/forum/viewtopic.php?t=2476597)
+    {: class="fa-ul"}
+- ##### <i class="fa-li fa fa-apple"></i>Mac OS
+    - <i class="fa-li fa fa-vk"></i>[Инструкция по русификации](https://vk.com/topic-113603759_35171106)
+    {: class="fa-ul"}
+{: class="fa-ul"}
 
 ### История изменений
 - [15.03.2014](changelog/update_10.html)
