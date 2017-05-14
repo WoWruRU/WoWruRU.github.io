@@ -7,7 +7,17 @@
 [Инструкция по русификации](https://vk.com/topic-113603759_35171106)
 
 ### История изменений
-- [24.8.2013](changelog/release.html)
+- [15.03.2014](changelog/update_10.html)
+- [12.02.2014](changelog/update_9.html)
+- [05.02.2014](changelog/update_8.html)
+- [31.12.2013](changelog/update_7.html)
+- [05.10.2013](changelog/update_6.html)
+- [28.09.2013](changelog/update_5.html)
+- [18.09.2013](changelog/update_4.html)
+- [05.09.2013](changelog/update_3.html)
+- [01.09.2013](changelog/update_2.html)
+- [25.08.2013](changelog/update_1.html)
+- [24.08.2013](changelog/release.html)
 
 
 ### Скриншоты
