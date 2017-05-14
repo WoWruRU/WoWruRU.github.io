@@ -10,16 +10,21 @@
 {: class="fa-ul"}
 
 ### История изменений
-- [15.03.2014](changelog/update_10.html)
-- [12.02.2014](changelog/update_9.html)
-- [05.02.2014](changelog/update_8.html)
-- [31.12.2013](changelog/update_7.html)
-- [05.10.2013](changelog/update_6.html)
-- [28.09.2013](changelog/update_5.html)
-- [18.09.2013](changelog/update_4.html)
-- [05.09.2013](changelog/update_3.html)
-- [01.09.2013](changelog/update_2.html)
-- [25.08.2013](changelog/update_1.html)
+- [30.06.2014](changelog/2014-06-30.html)
+- [23.05.2014](changelog/2014-05-23.html)
+- [12.04.2014](changelog/2014-04-12.html)
+- [25.03.2014](changelog/2014-03-25.html)
+- [20.03.2014](changelog/2014-03-20.html)
+- [15.03.2014](changelog/2014-03-15.html)
+- [12.02.2014](changelog/2014-02-12.html)
+- [05.02.2014](changelog/2014-02-05.html)
+- [31.12.2013](changelog/2013-12-31.html)
+- [05.10.2013](changelog/2013-10-05.html)
+- [28.09.2013](changelog/2013-09-28.html)
+- [18.09.2013](changelog/2013-09-18.html)
+- [05.09.2013](changelog/2013-09-05.html)
+- [01.09.2013](changelog/2013-09-01.html)
+- [25.08.2013](changelog/2013-08-25.html)
 - [24.08.2013](changelog/release.html)
 
 
