@@ -10,6 +10,14 @@
 {: class="fa-ul"}
 
 ### История изменений
+- [05.09.2016](changelog/2016-09-05.html)
+- [12.02.2016](changelog/2016-02-12.html)
+- [11.12.2014](changelog/2014-12-11.html)
+- [24.08.2014](changelog/2014-08-24.html)
+- [11.08.2014](changelog/2014-08-11.html)
+- [24.07.2014](changelog/2014-07-24.html)
+- [13.07.2014](changelog/2014-07-13.html)
+- [01.07.2014](changelog/2014-07-01.html)
 - [30.06.2014](changelog/2014-06-30.html)
 - [23.05.2014](changelog/2014-05-23.html)
 - [12.04.2014](changelog/2014-04-12.html)
