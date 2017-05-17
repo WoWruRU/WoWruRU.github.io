@@ -7,4 +7,4 @@
 ### История изменений
 - 08/05/2017 - Добавлена поддержка ruRU версии игры.
 
-![image1](/assets/img/OmniCC.png)
+![image1](/assets/img/OmniCC.jpg)

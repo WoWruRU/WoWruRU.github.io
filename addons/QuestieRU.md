@@ -7,5 +7,5 @@
 ### История изменений
 - 08/05/2017 - Добавлена поддержка ТОЛЬКО ruRU версии игры.
 
-![image1](/assets/img/QuestieRU.png)
-![image2](/assets/img/QuestieRU_2.png)
+![image1](/assets/img/QuestieRU.jpg)
+![image2](/assets/img/QuestieRU_2.jpg)

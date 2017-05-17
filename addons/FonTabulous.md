@@ -8,4 +8,4 @@
 - 16/05/2017 - Обновлен до версии 3.2
 - 08/05/2017 - Добавлена поддержка ruRU версии игры.
 
-![image1](/assets/img/FonTabulous.png)
+![image1](/assets/img/FonTabulous.jpg)

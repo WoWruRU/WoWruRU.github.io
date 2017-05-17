@@ -7,4 +7,4 @@
 ### История изменений
 - 07/05/2017 - Добавлена поддержка ruRU версии игры.
 
-![image1](/assets/img/ImprovedErrorFrame.png)
+![image1](/assets/img/ImprovedErrorFrame.jpg)
