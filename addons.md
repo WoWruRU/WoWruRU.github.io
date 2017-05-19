@@ -7,3 +7,4 @@
 - [!OmniCC](addons/OmniCC.html)
 - [!QuestieRU](addons/QuestieRU.html)
 - [_LazyPig](addons/LazyPig.html)
+- [ABHEFSg](addons/ABHEFS.html)
