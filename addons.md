@@ -8,3 +8,6 @@
 - [!QuestieRU](addons/QuestieRU.html)
 - [_LazyPig](addons/LazyPig.html)
 - [ABHEFSg](addons/ABHEFS.html)
+- [Accountant](addons/Accountant.html)
+- [AceAccept](addons/AceAccept.html)
+- [AceBidHelper](addons/AceBidHelper.html)
