@@ -15,4 +15,5 @@
 - [ag_UnitFrames](addons/ag_UnitFrames.html)
 - [AntiDaze](addons/AntiDaze.html)
 - [Atlas](addons/Atlas.html)
+- [AuctionLink](addons/AuctionLink.html)
 - [aux-addon](addons/aux-addon.html)

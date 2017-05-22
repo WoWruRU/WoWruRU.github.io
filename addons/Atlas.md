@@ -1,4 +1,4 @@
-## Atlas r14368
+## Atlas 1.12.0.1
 
 [Скачать](https://github.com/WoWruRU-ClassicAddons/Atlas/releases/download/1.12.0.1/Atlas.zip)
 
