@@ -12,4 +12,5 @@
 - [AceAccept](addons/AceAccept.html)
 - [AceBidHelper](addons/AceBidHelper.html)
 - [AdvancedTradeSkillWindow](addons/AdvancedTradeSkillWindow.html)
+- [ag_UnitFrames](addons/ag_UnitFrames.html)
 - [aux-addon](addons/aux-addon.html)
