@@ -7,7 +7,7 @@
 - [!OmniCC](addons/OmniCC.html)
 - [!QuestieRU](addons/QuestieRU.html)
 - [_LazyPig](addons/LazyPig.html)
-- [ABHEFSg](addons/ABHEFS.html)
+- [ABHEFS](addons/ABHEFS.html)
 - [Accountant](addons/Accountant.html)
 - [AceAccept](addons/AceAccept.html)
 - [AceBidHelper](addons/AceBidHelper.html)
