@@ -7,7 +7,6 @@ description: Большая интерактивная карта подземе
 
 dependencies:
  - name: Libs
-   display_name: "!Libs"
 
 changelog:
  - date: 2017-05-22

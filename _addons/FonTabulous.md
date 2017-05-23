@@ -2,7 +2,6 @@
 layout: addon
 
 name: FonTabulous
-display_name: "!!FonTabulous"
 version: 3.2
 description: Удобная смена шрифтов в игре.
 

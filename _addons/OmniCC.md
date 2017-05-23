@@ -2,7 +2,6 @@
 layout: addon
 
 name: OmniCC
-display_name: "!OmniCC"
 version: 6.8.30
 description: Показывает время восстановления предметов и заклинаний.
 

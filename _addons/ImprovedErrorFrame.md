@@ -2,7 +2,6 @@
 layout: addon
 
 name: ImprovedErrorFrame
-display_name: "!ImprovedErrorFrame"
 version: 3.2
 description: Скрывает ошибки аддонов, выводя информацию о них в отдельном окне.
 

@@ -7,7 +7,6 @@ description: Позволяет нажатием Shift + клик добавит
 
 dependencies:
  - name: Libs
-   display_name: "!Libs"
 
 changelog:
  - date: 2017-05-22

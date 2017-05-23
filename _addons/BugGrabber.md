@@ -2,13 +2,11 @@
 layout: addon
 
 name: BugGrabber
-display_name: "!BugGrabber"
 version: r9596
 description: Отлавливает ошибки аддонов, выводя информацию о них.
 
 dependencies:
  - name: Libs
-   display_name: "!Libs"
 
 changelog:
  - date: 2017-05-08

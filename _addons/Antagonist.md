@@ -7,7 +7,6 @@ description: Показывает полосу применений и прод�
 
 dependencies:
  - name: Libs
-   display_name: "!Libs"
 
 changelog:
  - date: 2017-05-22

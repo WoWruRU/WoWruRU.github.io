@@ -2,7 +2,6 @@
 layout: addon
 
 name: LazyPig
-display_name: "_LazyPig"
 version: 1.82
 description: Автоматизация различных функций.
 

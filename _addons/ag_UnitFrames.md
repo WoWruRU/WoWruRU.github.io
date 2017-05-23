@@ -2,13 +2,11 @@
 layout: addon
 
 name: agUnitFrames
-display_name: "ag_UnitFrames"
 version: r14368
 description: Замена стандартных иконок персонажей (полоса жизни, манны, группы, цели и т.д.). 
 
 dependencies:
  - name: Libs
-   display_name: "!Libs"
 
 changelog:
  - date: 2017-05-22
