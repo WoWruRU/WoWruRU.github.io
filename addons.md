@@ -13,6 +13,7 @@
 - [AceBidHelper](addons/AceBidHelper.html)
 - [AdvancedTradeSkillWindow](addons/AdvancedTradeSkillWindow.html)
 - [ag_UnitFrames](addons/ag_UnitFrames.html)
+- [Antagonist](addons/Antagonist.html)
 - [AntiDaze](addons/AntiDaze.html)
 - [Atlas](addons/Atlas.html)
 - [AuctionLink](addons/AuctionLink.html)
