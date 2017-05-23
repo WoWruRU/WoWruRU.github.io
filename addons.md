@@ -18,3 +18,6 @@
 - [Atlas](addons/Atlas.html)
 - [AuctionLink](addons/AuctionLink.html)
 - [aux-addon](addons/aux-addon.html)
+- [XPerl](addons/XPerl.html)
+- [ZGLoot](addons/ZGLoot.html)
+- [ZHunterMod](addons/ZHunterMod.html)
