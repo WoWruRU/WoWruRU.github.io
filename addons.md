@@ -1,23 +1,4 @@
 ## Список аддонов
 
-- [!!FonTabulous](addons/FonTabulous.html)
-- [!BugGrabber](addons/BugGrabber.html)
-- [!ImprovedErrorFrame](addons/ImprovedErrorFrame.html)
-- [!Libs](addons/Libs.html)
-- [!OmniCC](addons/OmniCC.html)
-- [!QuestieRU](addons/QuestieRU.html)
-- [_LazyPig](addons/LazyPig.html)
-- [ABHEFS](addons/ABHEFS.html)
-- [Accountant](addons/Accountant.html)
-- [AceAccept](addons/AceAccept.html)
-- [AceBidHelper](addons/AceBidHelper.html)
-- [AdvancedTradeSkillWindow](addons/AdvancedTradeSkillWindow.html)
-- [ag_UnitFrames](addons/ag_UnitFrames.html)
-- [Antagonist](addons/Antagonist.html)
-- [AntiDaze](addons/AntiDaze.html)
-- [Atlas](addons/Atlas.html)
-- [AuctionLink](addons/AuctionLink.html)
-- [aux-addon](addons/aux-addon.html)
-- [XPerl](addons/XPerl.html)
-- [ZGLoot](addons/ZGLoot.html)
-- [ZHunterMod](addons/ZHunterMod.html)
+{% for addon in site.addons %}
+- [{{ addon.display_name | default: addon.name }}]({{ '/addons/' | append: addon.name | relative_url }}){% endfor %}

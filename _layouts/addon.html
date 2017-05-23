@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<h2>{{ page.display_name | default: page.name }} {{ page.version }}</h2>
+
+<p><a href="https://github.com/{{ site.github_user }}/{{ page.name }}/releases/download/{{ page.version }}/{{ page.name }}.zip">Скачать</a></p>
+<p>{{ page.description }}</p>
+
+{% if page.dependencies %}
+<h3>Зависимости</h3>
+<ul>
+{% for dependency in page.dependencies %}
+  <li><a href="{{ '/addons/' | append: dependency.name | relative_url }}">{{ dependency.display_name | default: dependency.name }}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
+
+<h3>История изменений</h3>
+<ul>
+{% for change in page.changelog %}
+  <li>{{ change.date | date: "%d/%m/%Y" }} - {{ change.description }}</li>
+{% endfor %}
+</ul>
+
+{% for screenshot in page.screenshots %}
+<p><img src="{{ screenshot.url }}" /></p>
+{% endfor %}

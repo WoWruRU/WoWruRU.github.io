@@ -1,5 +1,10 @@
 title: WoWruRU Project
 description: Русификация World of Warcraft 1.12.1
 vk_group: WoWruRU
+github_user: WoWruRU-ClassicAddons
 
 theme: jekyll-theme-slate
+
+collections:
+  addons:
+    output: true
