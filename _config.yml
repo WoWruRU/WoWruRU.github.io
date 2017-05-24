@@ -9,3 +9,5 @@ theme: jekyll-theme-slate
 collections:
   addons:
     output: true
+  changelog:
+    output: true
