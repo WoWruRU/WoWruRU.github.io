@@ -3,7 +3,7 @@ layout: default
 ---
 <h2>{{ page.name }} {{ page.version }}</h2>
 
-<p><a href="https://github.com/{{ site.github_user }}/{{ page.name }}/releases/download/{{ page.version }}/{{ page.name }}.zip">Скачать</a></p>
+<p><i class="fa fa-file-archive-o fa-fw"></i> <a href="https://github.com/{{ site.github_user }}/{{ page.name }}/releases/download/{{ page.version }}/{{ page.name }}.zip">Скачать</a> <span id="download_size"></span></p>
 <p>{{ page.description }}</p>
 
 {% if page.dependencies %}
@@ -25,3 +25,18 @@ layout: default
 {% for screenshot in page.screenshots %}
 <p><img src="{{ screenshot.url }}" /></p>
 {% endfor %}
+
+<script>
+  $(function () {
+    $.getJSON("https://api.github.com/repos/{{ site.github_user }}/{{ page.name }}/releases", function (data) {
+      var size = data[0].assets[0].size;
+      var UNIT_NAMES = ["bytes", "KiB", "MiB", "GiB"];
+      var unit = 0;
+      while (size > 1024.0 && unit < UNIT_NAMES.length - 1) {
+        size /= 1024.0;
+        unit++;
+      }
+      $('#download_size').text("(" + size.toFixed(2) + " " + UNIT_NAMES[unit] + ")");
+    });
+  });
+</script>
