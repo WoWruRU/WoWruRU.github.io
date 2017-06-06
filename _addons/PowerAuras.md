@@ -2,7 +2,7 @@
 layout: addon
 
 name: PowerAuras
-version: 2.10
+version: '2.10'
 description: Визуальное отслеживание эффектов, окончание их действий и т.п.
 
 changelog:
