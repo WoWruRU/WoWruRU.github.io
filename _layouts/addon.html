@@ -26,6 +26,8 @@ layout: default
 <p><img src="{{ screenshot.url }}" /></p>
 {% endfor %}
 
+<div id="vk_comments"></div>
+
 <script>
   $(function () {
     $.getJSON("https://api.github.com/repos/{{ site.github_user }}/{{ page.name }}/releases", function (data) {
@@ -38,5 +40,15 @@ layout: default
       }
       $('#download_size').text("(" + size.toFixed(2) + " " + UNIT_NAMES[unit] + ")");
     });
+  });
+</script>
+
+<script type="text/javascript">
+  $(function () {
+    VK.init({
+      apiId: {{ site.vk_api_id }},
+      onlyWidgets: true
+    });
+    VK.Widgets.Comments('vk_comments', {limit: 10}, "{{ page.name }}");
   });
 </script>
