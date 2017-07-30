@@ -6,7 +6,7 @@
 	- <i class="fa-li fa fa-download"></i>[Google Диск](https://drive.google.com/open?id=0B-r6YFN6uR1fazVuMzJJdFlLMDA)
     {: class="fa-ul"}
 - ##### <i class="fa-li fa fa-apple"></i>Mac OS
-    - <i class="fa-li fa fa-vk"></i>[Инструкция по русификации](https://vk.com/topic-113603759_35171106)
+    - <i class="fa-li fa fa-vk"></i>[Инструкция по русификации](mac_instruction.html)
 	- <i class="fa-li fa fa-download"></i>[Google Диск](https://drive.google.com/open?id=0B-r6YFN6uR1fOUktbEFsSzBiT2s)
     {: class="fa-ul"}
 {: class="fa-ul"}
