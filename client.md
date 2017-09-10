@@ -3,7 +3,7 @@
 - ##### <i class="fa-li fa fa-windows"></i>Windows
     - <i class="fa-li fa fa-download"></i>[torrent](https://vk.com/doc-113603759_446406926)
     - <i class="fa-li fa fa-download"></i>[rutracker](https://rutracker.org/forum/viewtopic.php?t=2476597)
-	- <i class="fa-li fa fa-download"></i>[Google Диск](https://drive.google.com/open?id=0B-r6YFN6uR1fazVuMzJJdFlLMDA)
+	- <i class="fa-li fa fa-download"></i>[Google Диск](https://drive.google.com/open?id=0B-r6YFN6uR1fYXpNWW5UY3FnZE0)
     {: class="fa-ul"}
 - ##### <i class="fa-li fa fa-apple"></i>Mac OS
     - <i class="fa-li fa fa-vk"></i>[Инструкция по русификации](mac_instruction.html)
