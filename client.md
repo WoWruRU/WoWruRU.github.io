@@ -1,13 +1,10 @@
-## Клиент World of Warcraft 1.12.1 ruRU
+## Русификация англоязычного клиента
 
 - ##### <i class="fa-li fa fa-windows"></i>Windows
-    - <i class="fa-li fa fa-download"></i>[torrent](https://vk.com/doc-113603759_446406926)
-    - <i class="fa-li fa fa-download"></i>[rutracker](https://rutracker.org/forum/viewtopic.php?t=2476597)
-	- <i class="fa-li fa fa-download"></i>[Google Диск](https://drive.google.com/open?id=0B-r6YFN6uR1fZ2lIOHlDOXlxWTQ)
+    - <i class="fa-li fa fa-vk"></i>[Инструкция по русификации](win_instruction.html)
     {: class="fa-ul"}
 - ##### <i class="fa-li fa fa-apple"></i>Mac OS
     - <i class="fa-li fa fa-vk"></i>[Инструкция по русификации](mac_instruction.html)
-	- <i class="fa-li fa fa-download"></i>[Google Диск](https://drive.google.com/open?id=0B-r6YFN6uR1fOUktbEFsSzBiT2s)
     {: class="fa-ul"}
 {: class="fa-ul"}
 
@@ -19,10 +16,10 @@
 
 ### Скриншоты
 
-![image1](https://pp.userapi.com/c636520/v636520141/261f5/07TitaicJcQ.jpg)
+![image1](assets\img\game_image_1.jpg)
 
-![image2](https://pp.userapi.com/c633524/v633524941/15de7/6xZPCHJ_hec.jpg)
+![image2](assets\img\game_image_2.jpg)
 
-![image3](https://pp.userapi.com/c633524/v633524941/15e0c/GUoIw7uKeJ8.jpg)
+![image3](assets\img\game_image_3.jpg)
 
-![image4](https://pp.userapi.com/c633524/v633524941/15e3c/kJZeUjU83W0.jpg)
+![image4](assets\img\game_image_4.jpg)
