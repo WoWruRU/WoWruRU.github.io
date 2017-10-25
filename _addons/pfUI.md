@@ -2,7 +2,7 @@
 layout: addon
 
 name: pfUI
-version: 3.1.2 [25.10.2017]
+version: 3.1.2
 description: Замена пользовательского интерфейса.
 
 changelog:
