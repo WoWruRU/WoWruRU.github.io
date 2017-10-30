@@ -6,6 +6,9 @@ version: 3.1.2
 description: Замена пользовательского интерфейса.
 
 changelog:
+ - date: 2017-10-30
+   description: Обновлены шрифты BigNoodleTitling, Continuum, DieDieDie. Теперь они поддерживают кириллические символы.
+
  - date: 2017-10-25
    description: Аддон обновлен до версии 3.1.2 от 25.10.2017. Добавлен шрифт BigNoodleTitling с поддержкой кириллицы.
    
