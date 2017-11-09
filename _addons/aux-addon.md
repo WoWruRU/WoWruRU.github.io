@@ -2,10 +2,13 @@
 layout: addon
 
 name: aux-addon
-version: 1.0
+version: 09.11.2017
 description: Улучшенный аукцион.  
 
 changelog:
+ - date: 2017-11-09
+   description: Аддон обновлен до версии от 09.11.2017.
+
  - date: 2017-05-22
    description: Добавлена поддержка ruRU версии игры.
 
