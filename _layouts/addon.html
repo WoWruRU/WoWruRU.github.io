@@ -3,7 +3,15 @@ layout: default
 ---
 <h2>{{ page.name }} {{ page.version }}</h2>
 
-<p><i class="fa fa-file-archive-o fa-fw"></i> <a href="https://github.com/{{ site.github_user }}/{{ page.name }}/releases/download/{{ page.version }}/{{ page.name }}.zip">Скачать</a> <span id="download_size"></span></p>
+{% if page.download_url %}
+    {% assign download_url = page.download_url %}
+{% else %}
+    {% capture download_url %}
+        https://github.com/{{ site.github_user }}/{{ page.name }}/releases/download/{{ page.version }}/{{ page.name }}.zip
+    {% endcapture %}
+{% endif %}
+
+<p><i class="fa fa-file-archive-o fa-fw"></i> <a href="{{ download_url }}">Скачать</a> <span id="download_size"></span></p>
 <p>{{ page.description }}</p>
 
 {% if page.dependencies %}
@@ -28,6 +36,7 @@ layout: default
 
 <div id="vk_comments"></div>
 
+{% unless page.download_url %}
 <script>
   $(function () {
     $.getJSON("https://api.github.com/repos/{{ site.github_user }}/{{ page.name }}/releases", function (data) {
@@ -42,6 +51,7 @@ layout: default
     });
   });
 </script>
+{% endunless %}
 
 <script type="text/javascript">
   $(function () {
