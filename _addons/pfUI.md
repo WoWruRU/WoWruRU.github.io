@@ -2,10 +2,13 @@
 layout: addon
 
 name: pfUI
-version: 3.1.2
-description: Замена пользовательского интерфейса.
+description: Замена пользовательского интерфейса. Так как аддон скачивается напрямую с репозитория автора, советуем обновлять его хотя бы раз в месяц, чтобы иметь самую свежую версию. ВНИМАНИЕ: в названии папки нужно удалить приписку "-master"
+download_url: https://github.com/shagu/pfUI/archive/master.zip
 
 changelog:
+ - date: 2017-11-24
+   description: Теперь аддон скачивается напрямую с репозитория автора. 
+
  - date: 2017-10-30
    description: Обновлены шрифты BigNoodleTitling, Continuum, DieDieDie. Теперь они поддерживают кириллические символы.
 
