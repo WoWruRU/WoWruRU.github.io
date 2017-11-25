@@ -1,10 +1,10 @@
 ## Русификация англоязычного клиента
 
 - ##### <i class="fa-li fa fa-windows"></i>Windows
-    - <i class="fa-li fa fa-vk"></i>[Инструкция по русификации](win_instruction.html)
+    - <i class="fa-li fa fa-file-text-o"></i>[Инструкция по русификации](win_instruction.html)
     {: class="fa-ul"}
 - ##### <i class="fa-li fa fa-apple"></i>Mac OS
-    - <i class="fa-li fa fa-vk"></i>[Инструкция по русификации](mac_instruction.html)
+    - <i class="fa-li fa fa-file-text-o"></i>[Инструкция по русификации](mac_instruction.html)
     {: class="fa-ul"}
 {: class="fa-ul"}
 
