@@ -2,7 +2,7 @@
 layout: addon
 
 name: MikScrollingBattleText
-version: 4.43_RU-1.1
+version: 4.43_RU-1.0.1
 description: Измененный журнал боя. Введите /msbt для вызова меню настроек.
 
 dependencies:
