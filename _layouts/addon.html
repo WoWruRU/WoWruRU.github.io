@@ -23,12 +23,14 @@ layout: default
 </ul>
 {% endif %}
 
+{% if page.changelog %}
 <h3>История изменений</h3>
 <ul>
 {% for change in page.changelog %}
   <li>{{ change.date | date: "%d/%m/%Y" }} - {{ change.description }}</li>
 {% endfor %}
 </ul>
+{% endif %}
 
 {% for screenshot in page.screenshots %}
 <p><img src="{{ screenshot.url }}" /></p>
