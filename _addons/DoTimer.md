@@ -2,7 +2,7 @@
 layout: addon
 
 name: DoTimer
-version: 1.1.5
+version: 1.1.5_RU-1.0.1
 description: Отображает таймер ДОТов.
 
 changelog:
