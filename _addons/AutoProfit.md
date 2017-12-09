@@ -2,7 +2,7 @@
 layout: addon
 
 name: AutoProfit
-version: 3.11
+version: 3.11_RU-1.0.1
 description: Автоматическая продажа серых вещей.
 
 changelog:
