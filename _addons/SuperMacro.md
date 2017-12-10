@@ -8,4 +8,8 @@ description: Расширяет стандартные функции макро
 changelog:
  - date: 2017-06-27
    description: Добавлена поддержка ruRU версии игры.
+
+screenshots:
+ - url: /assets/img/SuperMacro_1.jpg
+ - url: /assets/img/SuperMacro_2.jpg
 ---
