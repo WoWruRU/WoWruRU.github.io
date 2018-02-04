@@ -2,8 +2,9 @@
 layout: addon
 
 name: TinyTip
-version: Revision-7830
 description: Улучшение всплывающих подсказок
+
+download_url: https://github.com/EinBaum/TinyTip/archive/master.zip
 
 changelog:
  - date: 2018-01-31
