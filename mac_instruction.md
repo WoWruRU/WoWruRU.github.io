@@ -1,7 +1,7 @@
 ### Инструкция по русификации английского клиента MacOS
 
 1. Скачайте англоязычный клиент версии 1.12.1 для Mac OS.
-2. Скачать [архив](https://drive.google.com/open?id=1plhnd74kmzYT1ejdU7AfyrkWCzhQAgII) и распаковать его в корень игры, согласиться с заменой (если требуется).
+2. Скачать [архив](https://drive.google.com/open?id=1I-_obHNYu9d3u5mCAZzvDU7GyBMR4L5Z) и распаковать его в корень игры, согласиться с заменой (если требуется).
 3. Скачать [архив](https://www.dropbox.com/s/g6u9iau7fyrr4ec/World%20of%20Warcraft.zip?dl=1) и распаковать его в корень игры, согласиться с заменой.
 4. Запустить World of Warcraft.
 
