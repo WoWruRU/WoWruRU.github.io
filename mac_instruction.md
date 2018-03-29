@@ -4,6 +4,7 @@
 2. Скачать [архив](https://drive.google.com/open?id=1I-_obHNYu9d3u5mCAZzvDU7GyBMR4L5Z) и распаковать его в корень игры, согласиться с заменой (если требуется).
 3. Скачать [архив](https://www.dropbox.com/s/g6u9iau7fyrr4ec/World%20of%20Warcraft.zip?dl=1) и распаковать его в корень игры, согласиться с заменой.
 4. Запустить World of Warcraft.
+5. [Исправление горячих клавиш](fix_mac_hotkeys.html)
 
 Сообщить о проблеме или просто оставить отзыв вы можете в этом [обсуждении](https://vk.com/topic-113603759_35171106).
 
