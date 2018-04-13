@@ -7,7 +7,7 @@ description: Отображает Имя/Здоровье/Класс над го
 
 changelog:
  - date: 2018-04-13
-   description: Добавлена поддержка ruRU версии игры.
+   description: Добавлена поддержка ruRU версии игры.<br>Добавлено обновление только каждые 0.1 секунды.
 
 screenshots:
  - url: /assets/img/CustomNameplates.jpg
