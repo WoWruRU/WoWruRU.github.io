@@ -2,7 +2,7 @@
 layout: addon
 
 name: CustomNameplates
-version: RU-1.0.0
+version: RU-1.0.1
 description: Отображает Имя/Здоровье/Класс над головами ближайших целей.
 
 changelog:
