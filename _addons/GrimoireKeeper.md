@@ -2,11 +2,13 @@
 layout: addon
 
 name: GrimoireKeeper
-version: 3.0
+version: 3.1
 description: Отслеживает, какие гримуары были изучены вашим демоном.
-download_url: https://github.com/Lichery/GrimoireKeeper/releases/download/3.0/GrimoireKeeper.zip
+download_url: https://github.com/Lichery/GrimoireKeeper/releases/download/3.1/GrimoireKeeper.zip
 
 changelog:
+ - date: 2018-05-18
+   description: Добавлена красная подсветка для тех гримуаров, которые не подходят для нынешнего демона.
  - date: 2017-12-17
    description: Аддон полностью переписан с использованием Ace2 библиотек.<br>Теперь аддон работает независимо от языка клиента и сервера.
 
