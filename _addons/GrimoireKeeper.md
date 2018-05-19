@@ -2,11 +2,13 @@
 layout: addon
 
 name: GrimoireKeeper
-version: 3.2
+version: 3.3
 description: Отслеживает, какие гримуары были изучены вашим демоном.
-download_url: https://github.com/Lichery/GrimoireKeeper/releases/download/3.2/GrimoireKeeper.zip
+download_url: https://github.com/Lichery/GrimoireKeeper/releases/download/3.3/GrimoireKeeper.zip
 
 changelog:
+ - date: 2018-05-19
+   description: снова переписал аддон, но без использования Ace2-библиотек.
  - date: 2018-05-19
    description: удалил библиотеку Babble-Spell;<br>исправлена ошибка с типом демона на не английском клиенте;<br>добавлены желтые выделения для гримуаров.
  - date: 2018-05-18
