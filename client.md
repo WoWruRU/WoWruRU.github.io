@@ -8,6 +8,7 @@
 - ##### <i class="fa-li fa fa-apple"></i>Mac OS
     - <i class="fa-li fa fa-file-text-o"></i>[Инструкция по русификации](mac_instruction.html)
     - <i class="fa-li fa fa-cloud-download"></i>[Загрузка готового клиента (Google Drive)](https://drive.google.com/open?id=1aFfF882LYPI4282GOa6hBIX1UpTDN_jS)
+    - <i class="fa-li fa fa-keyboard-o"></i>[Исправление горячих клавиш](fix_mac_hotkeys.html)
     {: class="fa-ul"}
 {: class="fa-ul"}
 
