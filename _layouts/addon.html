@@ -12,7 +12,7 @@ layout: default
 {% endif %}
 
 <p><i class="far fa-file-archive fa-fw"></i> <a href="{{ download_url }}">Скачать</a> <span id="download_size"></span></p>
-<p>{{ page.description }}</p>
+<p>{{ page.description | default: content }}</p>
 
 {% if page.dependencies %}
 <h3>Зависимости</h3>
