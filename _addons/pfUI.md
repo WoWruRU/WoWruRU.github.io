@@ -3,7 +3,7 @@ layout: addon
 
 name: pfUI
 description: 'Замена пользовательского интерфейса. Так как аддон скачивается напрямую с репозитория автора, советуем обновлять его хотя бы раз в месяц, чтобы иметь самую свежую версию.'
-download_url: https://github.com/shagu/pfUI/archive/master.zip
+download_url: https://gitlab.com/shagu/pfUI/-/archive/master/pfUI-master.zip
 
 changelog:
  - date: 2017-11-24
