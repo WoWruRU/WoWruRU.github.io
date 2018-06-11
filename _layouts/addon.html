@@ -11,7 +11,15 @@ layout: default
     {% endcapture %}
 {% endif %}
 
-<p><i class="far fa-file-archive fa-fw"></i> <a href="{{ download_url }}">Скачать</a> <span id="download_size"></span></p>
+{% if download_url.first %}
+<ul class="fa-ul">
+{% for download in download_url %}
+    <li><span class="fa-li"><i class="far fa-file-archive fa-fw"></i></span><a href="{{ download.url }}">Скачать {{ download.name }}</a> <span class="secondary">({{ download.comment }})</span></li>
+{% endfor %}
+</ul>
+{% else %}
+<p><i class="far fa-file-archive fa-fw"></i> <a href="{{ download_url }}">Скачать</a> <span id="download_size" class="secondary"></span></p>
+{% endif %}
 <p>{{ page.description | default: content }}</p>
 
 {% if page.dependencies %}
