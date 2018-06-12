@@ -6,6 +6,7 @@ name: pfQuest
 screenshots:
  - url: /assets/img/pfQuest_1.jpg
  - url: /assets/img/pfQuest_2.jpg
+ - url: /assets/img/pfQuest_3.jpg
 
 download_url:
  - name: enUS
@@ -13,10 +14,10 @@ download_url:
    comment: для английского клиента
  - name: ruRU
    url: https://gitlab.com/shagu/pfQuest/-/jobs/artifacts/master/download?job=ruRU
-   comment: для русского клиента, задания на русском языке
+   comment: для русского клиента, задания в игре на русском языке
  - name: noLoc
    url: https://gitlab.com/shagu/pfQuest/-/jobs/artifacts/master/download?job=noLoc
-   comment: для русского клиента, задания на английском языке
+   comment: для русского клиента, задания в игре на английском языке
 
 ---
 
