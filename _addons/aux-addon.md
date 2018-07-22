@@ -2,10 +2,13 @@
 layout: addon
 
 name: aux-addon
-version: 27.01.2018
+version: 23.07.2018
 description: Улучшенный аукцион.  
 
 changelog:
+ - date: 2018-07-23
+   description: Аддон обновлен до версии от 23.07.2018:<br>Аддон обновлен до версии как у автора<br>Исправления перевода (Спасибо Krisa)
+   
  - date: 2018-01-27
    description: Аддон обновлен до версии от 27.01.2018.
 
