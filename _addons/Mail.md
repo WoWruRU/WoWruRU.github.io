@@ -2,10 +2,13 @@
 layout: addon
 
 name: Mail
-version: RU-1.0.1
 description: Массовая отправка почты.
+download_url: https://github.com/shirsig/Mail/archive/master.zip
 
 changelog:
+ - date: 2018-07-24
+   description: Теперь аддон скачивается напрямую с репозитория автора. 
+ 
  - date: 2017-12-14
    description: Обновление до последней версии автора.
    
