@@ -2,7 +2,7 @@
 layout: addon
 
 name: LunaUnitFrames
-description: 'Легкие панели в современном стиле.<br><br>Во избежании ошибок обновите [Libs](https://wowruru.github.io/addons/Libs) !'
+description: 'Легкие панели в современном стиле.<br><br>Во избежании ошибок обновите Libs!'
 download_url: https://github.com/WoWruRU-ClassicAddons/LunaUnitFrames/archive/master.zip
 
 changelog:
