@@ -1,7 +1,7 @@
 ---
 layout: addon
 
-name: Luna Unit Frames
+name: LunaUnitFrames
 description: Легкие панели в современном стиле.
 download_url: https://github.com/WoWruRU-ClassicAddons/LunaUnitFrames/archive/master.zip
 
