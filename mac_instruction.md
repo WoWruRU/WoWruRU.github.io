@@ -3,7 +3,8 @@
 1. Скачайте англоязычный клиент версии 1.12.1 для Mac OS.
 2. Скачать [архив](https://drive.google.com/open?id=1LLPdHSzGZ0FDUWCu4jD8mODP30nwAfe7) и распаковать его в корень игры, согласиться с заменой (если требуется).
 3. Скачать [архив](https://www.dropbox.com/s/g6u9iau7fyrr4ec/World%20of%20Warcraft.zip?dl=1) и распаковать его в корень игры, согласиться с заменой.
-4. Запустить World of Warcraft.
+4. Скачать [обновление](https://drive.google.com/open?id=1Y91i3r0rTRVJqNUXEo2tN7EDAgH7ufx7) и распаковать его в корень игры, согласиться с заменой.
+5. Запустить World of Warcraft.
 
 Сообщить о проблеме или просто оставить отзыв вы можете в этом [обсуждении](https://vk.com/topic-113603759_35171106).
 
