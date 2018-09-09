@@ -1,8 +1,7 @@
 ### [Windows] Инструкция по русификации английского клиента
 
 1. Скачайте англоязычный клиент версии 1.12.1 для Windows.
-2. Скачать [архив](https://drive.google.com/open?id=1iur9vPj5VTCMmIMl2jMZu_SB57qF7Zvl) и распаковать его в корень игры, согласиться с заменой.
-3. Скачать [обновление](https://drive.google.com/open?id=1dgZ2EKjOK6s6JmBfsxFUYkShMExgL8JA) и распаковать его в корень игры, согласиться с заменой.
-4. Запустить WoW.exe.
+2. Скачать [архив](https://drive.google.com/open?id=1oV5O-Ow0GTjXGHFbEjUSU81Rgm_Mq8Tk) и распаковать его в корень игры, согласиться с заменой.
+2. Запустить WoW.exe.
 
 Сообщить о проблеме вы можете в этом [обсуждении](https://vk.com/topic-113603759_33642921).
