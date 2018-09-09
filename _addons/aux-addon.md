@@ -2,10 +2,13 @@
 layout: addon
 
 name: aux-addon
-version: 05.09.2018
-description: Улучшенный аукцион.  
+description: Улучшенный аукцион.
+download_url: https://github.com/WoWruRU-ClassicAddons/aux-addon/archive/master.zip
 
 changelog:
+ - date: 2018-09-09
+   description: 'Аддон обновлен до версии как у автора от 09.09.2018.'
+
  - date: 2018-09-05
    description: 'Аддон обновлен до версии как у автора от 05.09.2018<br>Обновление перевода.'
 
