@@ -2,13 +2,17 @@
 layout: addon
 
 name: Mendeleev
-version: 0.6
-description: Аддон добавляет много информации в подсказки.
+version: 2.0-r82063
+description: Добавляет много информации в подсказку к предмету.
 
 dependencies:
  - name: Libs
 
 changelog:
+ - date: 2018-01-20
+   description: Возврат к версии 2.0-r82063
+ - date: 2018-01-19
+   description: Возврат к версии 1.0-r27770
  - date: 2018-01-20
    description: Возврат к версии 0.6
  - date: 2018-01-14
