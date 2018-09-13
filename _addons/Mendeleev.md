@@ -2,13 +2,12 @@
 layout: addon
 
 name: Mendeleev
-version: 3.0-r332
+version: 3.0-r333
 description: Добавляет в подсказки предметов различную информацию, основанную на PeriodicTable.
 
-dependencies:
- - name: Libs
-
 changelog:
+ - date: 2018-09-13
+   description: Добавлен подсчет предметов на аккаунте
  - date: 2018-09-13
    description: Обновление до версии 3.0-r332 (возврат версии 7.0.3. Самая последняя и актуальная :) )
  - date: 2018-09-12
