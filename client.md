@@ -11,6 +11,10 @@
     - <i class="fa-li fas fa-keyboard"></i>[Исправление горячих клавиш](fix_mac_hotkeys.html)
     {: class="fa-ul"}
 {: class="fa-ul"}
+- ##### <i class="fa-li fas fa-cogs fa-2x"></i>Модификации
+    - <i class="fa-li far fa-file-alt"></i>[Меню аккаунтов](acc_menu_instruction.html)
+    {: class="fa-ul"}
+{: class="fa-ul"}
 
 ### История изменений
 
