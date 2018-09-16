@@ -2,10 +2,12 @@
 layout: addon
 
 name: Mendeleev
-version: 3.0-r335
+version: 3.0-r336
 description: Добавляет в подсказки предметов различную информацию, основанную на PeriodicTable.
 
 changelog:
+ - date: 2018-09-17
+   description: Добавлена поддержка ShoppingTooltips.<br>Добавлено отображение стоимости предметов.
  - date: 2018-09-16
    description: Добавлена поддержка ItemRefTooltip.
  - date: 2018-09-13
