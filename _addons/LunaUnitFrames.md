@@ -3,9 +3,12 @@ layout: addon
 
 name: LunaUnitFrames
 description: 'Легкие панели в современном стиле.<br><br>Во избежании ошибок обновите Libs!'
-download_url: https://github.com/WoWruRU-ClassicAddons/LunaUnitFrames/archive/master.zip
+download_url: https://github.com/Aviana/LunaUnitFrames/archive/master.zip
 
 changelog:
+ - date: 2018-10-02
+   description: Теперь аддон скачивается напрямую с репозитория автора. 
+
  - date: 2018-08-31
    description: 'Обновлены шрифты Aldrich, Enigmatic, MetalLord. Теперь они поддерживают кириллические символы.
    <br>Добавлена поддержка ruRU версии игры.'
