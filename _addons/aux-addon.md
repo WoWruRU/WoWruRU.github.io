@@ -6,6 +6,9 @@ description: Улучшенный аукцион.
 download_url: https://github.com/WoWruRU-ClassicAddons/aux-addon/archive/master.zip
 
 changelog:
+ - date: 2018-10-03
+   description: 'Аддон обновлен до версии как у автора от 20.09.2018.'
+
  - date: 2018-09-09
    description: 'Аддон обновлен до версии как у автора от 09.09.2018.'
 
