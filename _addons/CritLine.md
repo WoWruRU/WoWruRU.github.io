@@ -2,7 +2,7 @@
 layout: addon
 
 name: CritLine
-version: 3.1.1
+version: 3.1.2
 description: Critline это аддон который запоминает ваши самые сильные и критические удары (включая лечение), после, отображает их в простой подсказке.
 
 changelog:
