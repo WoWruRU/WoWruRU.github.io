@@ -13,5 +13,8 @@ changelog:
    description: Добавлена поддержка ruRU версии игры.
 
 screenshots:
- - url: /assets/img/CritLine.jpg
+ - url: /assets/img/CritLine_1.jpg
+ - url: /assets/img/CritLine_2.jpg
+ - url: /assets/img/CritLine_3.jpg
+ - url: /assets/img/CritLine_4.jpg
 ---
