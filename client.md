@@ -11,12 +11,12 @@
     - <i class="fa-li fas fa-keyboard"></i>[Исправление горячих клавиш](fix_mac_hotkeys.html)
     {: class="fa-ul"}
 - ##### <i class="fa-li fas fa-cogs fa-2x"></i>Модификации
+    - <i class="fa-li far fa-file-alt"></i>[Меню аккаунтов](acc_menu_instruction.html)
 #### ВНИМАНИЕ! Перед использованием модификаций уточняйте можно ли их использовать на Вашем сервере!
 #### Администрация проекта ответственности за баны НЕ несет!
-    - <i class="fa-li far fa-file-alt"></i>[Меню аккаунтов](acc_menu_instruction.html)
     {: class="fa-ul"}
-- ### <i class="fa-li fas fa-book"></i>[История изменений](changelog.html)
-- ### <i class="fa-li fas fa-question"></i>[Часто задаваемые вопросы](frequently_asked_questions.html)
+- ### <i class="fa-li fas fa-book fa-2x"></i>[История изменений](changelog.html)
+- ### <i class="fa-li fas fa-question fa-2x"></i>[Часто задаваемые вопросы](frequently_asked_questions.html)
 {: class="fa-ul"}
 
 <img src="assets\img\game_image_1.jpg" align="middle">
