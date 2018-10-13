@@ -26,10 +26,10 @@
 
 ### Скриншоты
 
-![image1](assets\img\game_image_1.jpg)
+<img src="assets\img\game_image_1.jpg" align="middle">
 
-![image2](assets\img\game_image_2.jpg)
+<img src="assets\img\game_image_2.jpg" align="middle">
 
-![image3](assets\img\game_image_3.jpg)
+<img src="assets\img\game_image_3.jpg" align="middle">
 
-![image4](assets\img\game_image_4.jpg)
+<img src="assets\img\game_image_4.jpg" align="middle">
