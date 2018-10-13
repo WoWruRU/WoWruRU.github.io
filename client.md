@@ -19,8 +19,6 @@
 - ### <i class="fa-li fas fa-question"></i>[Часто задаваемые вопросы](frequently_asked_questions.html)
 {: class="fa-ul"}
 
-### Скриншоты
-
 <img src="assets\img\game_image_1.jpg" align="middle">
 
 <img src="assets\img\game_image_2.jpg" align="middle">
