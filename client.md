@@ -16,6 +16,7 @@
     - <i class="fa-li far fa-file-alt"></i>[Меню аккаунтов](acc_menu_instruction.html)
     {: class="fa-ul"}
 - ### <i class="fa-li fas fa-book"></i>[История изменений](changelog.html)
+- ### <i class="fa-li fas fa-question"></i>[Часто задаваемые вопросы](frequently_asked_questions.html)
 {: class="fa-ul"}
 
 ### Скриншоты
