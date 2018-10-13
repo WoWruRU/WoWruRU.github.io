@@ -10,15 +10,13 @@
     - <i class="fa-li fab fa-google-drive"></i>[Загрузка готового клиента (Google Drive)](https://drive.google.com/open?id=1aFfF882LYPI4282GOa6hBIX1UpTDN_jS)
     - <i class="fa-li fas fa-keyboard"></i>[Исправление горячих клавиш](fix_mac_hotkeys.html)
     {: class="fa-ul"}
-{: class="fa-ul"}
 - ##### <i class="fa-li fas fa-cogs fa-2x"></i>Модификации
 #### ВНИМАНИЕ! Перед использованием модификаций уточняйте можно ли их использовать на Вашем сервере!
 #### Администрация проекта ответственности за баны НЕ несет!
     - <i class="fa-li far fa-file-alt"></i>[Меню аккаунтов](acc_menu_instruction.html)
     {: class="fa-ul"}
+- ### <i class="fa-li fas fa-book"></i>[История изменений](changelog.html)
 {: class="fa-ul"}
-
-### <i class="fa-li fas fa-book fa-2x"></i>[История изменений](_changelog\changelog.html)
 
 ### Скриншоты
 
