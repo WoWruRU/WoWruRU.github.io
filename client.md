@@ -15,15 +15,9 @@
 #### ВНИМАНИЕ! Перед использованием модификаций уточняйте можно ли их использовать на Вашем сервере!
 #### Администрация проекта ответственности за баны НЕ несет!
     {: class="fa-ul"}
-- ##### <i class="fa-li fas fa-book fa-2x"></i>[История изменений](changelog.html)
-
-    {: class="fa-ul"}
-- ##### <i class="fa-li fas fa-question fa-2x"></i>[Часто задаваемые вопросы](frequently_asked_questions.html)
-
-    {: class="fa-ul"}
-
+- ### <i class="fa-li fas fa-book"></i>[История изменений](changelog.html)
+- ### <i class="fa-li fas fa-question"></i>[Часто задаваемые вопросы](frequently_asked_questions.html)
 {: class="fa-ul"}
-
 
 <img src="assets\img\game_image_1.jpg" align="middle">
 
