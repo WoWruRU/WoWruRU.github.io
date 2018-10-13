@@ -18,11 +18,7 @@
     {: class="fa-ul"}
 {: class="fa-ul"}
 
-### История изменений
-
-{% assign changelog = site.changelog | reverse %}
-{% for change in changelog %}
-- [{{ change.date | date: "%d.%m.%Y" }}]({{ change.url }}){% endfor %}
+### <i class="fa-li fas fa-book fa-2x"></i>[История изменений](_changelog\changelog.html)
 
 ### Скриншоты
 
