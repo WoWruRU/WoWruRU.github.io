@@ -3,7 +3,7 @@ layout: addon
 
 name: LunaUnitFrames
 description: 'Легкие панели в современном стиле.<br><br>Во избежании ошибок обновите Libs!'
-download_url: https://github.com/Aviana/LunaUnitFrames/archive/master.zip
+download_url: https://github.com/Aviana/LunaUnitFrames/archive/1.12.1.zip
 
 changelog:
  - date: 2018-10-02
