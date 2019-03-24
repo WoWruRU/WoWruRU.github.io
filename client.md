@@ -9,6 +9,7 @@
     {: class="fa-ul"}
 - ##### <i class="fa-li fas fa-cogs fa-2x"></i>Модификации
     - <i class="fa-li far fa-file-alt"></i>[Меню аккаунтов](acc_menu_instruction.html)
+    - <i class="fa-li far fa-file-alt"></i>[Оболочка pfUI](pfui_skin_instruction.html)
 #### ВНИМАНИЕ! Перед использованием модификаций уточняйте можно ли их использовать на Вашем сервере!
 #### Администрация проекта ответственности за баны НЕ несет!
     {: class="fa-ul"}
