@@ -1,6 +1,6 @@
 ### Инструкция по установке оболочки аддона pfUI
 
-1. Скачать [архив](https://drive.google.com/open?id=1PiBmzZdfkp9ZJkRM79-tSn5ImdagDFCe).
+1. Скачать [архив](https://drive.google.com/open?id=1c8v-TCbZobKbI6r993tn3c0mxbhM3_6c).
 2. Перенести файл patch-B.MPQ в папку "Data".
 
 
