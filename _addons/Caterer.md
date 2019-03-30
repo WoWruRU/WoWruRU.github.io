@@ -13,6 +13,9 @@ description: 'Для магов. Полностью автоматическая
 download_url: https://github.com/Lichery/Caterer/archive/master.zip
 
 changelog:
+ - date: 2019-03-30
+   description: 'Добавлена недостающая еда и вода мага для уровней ниже 50.
+   <br>Небольшая оптимизация.'
  - date: 2018-01-28
    description: 'Добавлен счетчик еды и воды на панель FuBar.
    <br>Добавлена текущая еда и вода в подсказку на значок миникарты.
