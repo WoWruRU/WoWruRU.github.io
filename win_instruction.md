@@ -2,7 +2,7 @@
 
 1. Скачайте англоязычный клиент версии 1.12.1 для Windows.
 2. Скачать [русификатор](https://drive.google.com/open?id=1oV5O-Ow0GTjXGHFbEjUSU81Rgm_Mq8Tk) и распаковать его в корень игры, согласиться с заменой.
-3. Скачать [обновление от 5.01.2019](https://drive.google.com/open?id=1g_wkcc8cQRrd4LCJYsKS03wIggrZSXfU) и распаковать его в корень игры, согласиться с заменой.
+3. Скачать [обновление от 02.06.2019](https://drive.google.com/open?id=16Eswt-UQRoIrvheM-aPIoo6vRUGscFfV) и распаковать его в корень игры, согласиться с заменой.
 4. Запустить WoW.exe.
 
 При возникновении вопросов ознакомьтесь с разделом [Часто задаваемых вопросов](frequently_asked_questions.html).
