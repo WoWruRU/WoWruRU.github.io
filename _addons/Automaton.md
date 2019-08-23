@@ -4,6 +4,7 @@ layout: addon
 name: Automaton
 version: 1.1.2
 description: Множество автоматизированных действий.
+download_url: https://gitlab.com/Artur91425/Automaton/-/archive/master/Automaton-master.zip
 
 dependencies:
  - name: Libs

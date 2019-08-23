@@ -4,7 +4,7 @@ layout: addon
 name: GrimoireKeeper
 version: 3.3
 description: Отслеживает, какие гримуары были изучены вашим демоном.
-download_url: https://github.com/Lichery/GrimoireKeeper/archive/master.zip
+download_url: https://gitlab.com/Artur91425/GrimoireKeeper/-/archive/master/GrimoireKeeper-master.zip
 
 changelog:
  - date: 2018-05-19
